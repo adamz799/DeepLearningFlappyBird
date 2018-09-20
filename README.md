@@ -1,5 +1,5 @@
 # Overview
-This project is a pytorch implemention of ["Playing Flappy Bird with DQN"](https://github.com/yenchenlin1994/DeepLearningFlappyBird.git). The network architecture is built following the ["Readme"](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/README.md) file, which is a bit different to the [tensorflow](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/deep_q_network.py) version.
+This project is a pytorch implemention of ["Playing Flappy Bird with DQN"](https://github.com/yenchenlin1994/DeepLearningFlappyBird.git). The network architecture is built following the [readme file](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/README.md), which is a bit different to the [tensorflow version](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/deep_q_network.py).
 
 ## Installation Dependencies:
 * Python 3.5
@@ -16,7 +16,7 @@ python deep_q_network-pytorch.py
 ```
 
 #### How to reproduce?
-1. Comment out [this line](https://github.com/adamz799/DeepLearningFlappyBird/blob/master/deep_q_network-pytorch.py#L225) and comment [this line](https://github.com/adamz799/DeepLearningFlappyBird/blob/master/deep_q_network-pytorch.py#L226)
+1. Comment out [this line](https://github.com/adamz799/DeepLearningFlappyBird/blob/master/deep_q_network-pytorch.py#L225) and comment [this line](https://github.com/adamz799/DeepLearningFlappyBird/blob/master/deep_q_network-pytorch.py#L226).
 
 2. Modify `deep_q_network-pytorch.py`'s parameter as follow:
 ```python
@@ -37,7 +37,7 @@ INITIAL_EPSILON = 0.1
 ## Disclaimer
 This work is highly based on the following repos:
 
-1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
+1. [sourabhv/FlapPyBird](https://github.com/sourabhv/FlapPyBird)
 2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 3. [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 

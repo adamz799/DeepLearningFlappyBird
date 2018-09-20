@@ -205,7 +205,7 @@ def trainNetwork(net):
 
         # save progress every 10000 iterations
         if t % 10000 == 0:
-            torch.save(net,'dqn-3.pkl')
+            torch.save(net,'dqn-new.pkl')
             #saver.save(sess, 'saved_networks/' + GAME + '-dqn', global_step = t)
 
         # print info

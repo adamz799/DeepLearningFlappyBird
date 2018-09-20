@@ -1,5 +1,5 @@
 # Overview
-This project is a pytorch implemention of ["Playing Flappy Bird with DQN"](https://github.com/yenchenlin1994/DeepLearningFlappyBird.git). The network architecture is built following the [readme file](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/README.md), which is a bit different to the [tensorflow version](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/deep_q_network.py).
+This project is a pytorch implementation of ["Playing Flappy Bird with DQN"](https://github.com/yenchenlin1994/DeepLearningFlappyBird.git). The network architecture is built following the [readme file](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/README.md), which is a bit different to the [tensorflow version](https://github.com/yenchenlin/DeepLearningFlappyBird/blob/master/deep_q_network.py).
 
 ## Installation Dependencies:
 * Python 3.5
